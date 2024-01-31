@@ -10,7 +10,7 @@ All files uploaded to the CrytoClustering repository including:
 
 <img width="569" alt="image" src="https://github.com/matvio16/CryptoClustering/assets/141645475/3fc9734c-a1a8-4627-af97-090f930aa6f4">
 <br />
-![image](https://github.com/matvio16/CryptoClustering/assets/141645475/aea26e06-9051-44cd-bbc6-19b197151723)
+<img width="509" alt="image" src="https://github.com/matvio16/CryptoClustering/assets/141645475/42d3756a-62a7-41e7-ab1c-3cdfafb0fd07">
 <br />
 <img width="483" alt="image" src="https://github.com/matvio16/CryptoClustering/assets/141645475/21efc0ce-e0c4-4867-894e-8f083ed6a56f">
 <br />
